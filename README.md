@@ -25,3 +25,6 @@ Nous pouvons observer qu'il y a la possiblité de :
 **-Supprimer des données** La façon dont j'ai réalisé cette fonctionnalité peut être un peu tricky
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/suppression%20donnees.png)
  
+**-Modification des données** Malheureusement, on ne peut que modifier la ligne de l'équipement (mais j'ai essayé)
+![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/modif%20donnees.png)
+
