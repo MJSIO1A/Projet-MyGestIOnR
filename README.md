@@ -52,6 +52,7 @@ Nous pouvons observer qu'il y a la possiblité de :
 **-Génération d'un fichier .txt depuis la bdd**
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/fichier.png)
 
+### Autre fonctionnalité
 
 **Je me suis également charger d'ajouter une nouvelle fonctionnalité qui permet de faire des backups _Gestion des sauvegardes_**
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/sauvegarde.png)
