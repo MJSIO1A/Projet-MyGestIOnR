@@ -12,11 +12,6 @@ Nous pouvons observer qu'il y a la possiblité de :
 
 ## Fonctionnalités principales
 
-**Consulter les données**  
-**Ajouter des données**  
-**Supprimer des données**  
-**Modifier des données**  
-
 
 **-Consulter les données**
 
