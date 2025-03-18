@@ -36,7 +36,9 @@ Nous pouvons observer qu'il y a la possiblité de :
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/modif%20donnees.png)
 
 
-**Je me suis également charger de la moitier de la partie _Outils Réseaux_**
+# Outils Réseaux
+
+**Je me suis également chargé de la moitié de la partie _Outils Réseaux_**
 
 **Consulter les ip actives**
 
