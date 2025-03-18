@@ -48,4 +48,6 @@ Nous pouvons observer qu'il y a la possiblité de :
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/sauvegarde.png)
 
 
-**Je tenais aussi à informer un problème avec la gestion du projet entre mon camarade Yann et moi au niveau de l'installation de MGestIOnR avec le script ./install.sh, ce script ne donne pas tout les droits MyGestAdmin (de mon côté), alors vous aurez la version de mon projet avec l'utilisateur votre_utilisateut, qu'il faudra mettre lors de l'installation de ma version du script ./install.sh, je l'ai testé sur une autre machine cela fonctionne** 
+**Je tenais aussi à informer un problème avec la gestion du projet entre mon camarade Jan et moi au niveau de l'installation de MyGestIOnR avec le script ./install.sh, ce script ne donne pas tout les droits à  GestAdmin (de mon côté), alors vous aurez la version de mon projet avec l'utilisateur votre_utilisateur, qu'il faudra mettre lors de l'installation de ma version du script ./install.sh, je l'ai testé sur une autre machine cela fonctionne (malgré quelques erreurs)**
+![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/gestadmin.png) 
+![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/votre_utilisateur.png)
