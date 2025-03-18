@@ -40,3 +40,5 @@ Nous pouvons observer qu'il y a la possiblité de :
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/actives.png)
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/inactive.png)
 
+**-Génération d'un fichier .txt depuis la bdd**
+![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/fichier.png)
