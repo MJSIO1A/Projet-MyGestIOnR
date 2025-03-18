@@ -1,7 +1,10 @@
-**Ce projet permet de gérer un parc informatique.**
+# MyGestIOnR - Gestion d'un parc informatique
+<p align="center">
+  <img src="https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/bienvenue.png" width="60%">
+</p>
 
-**MyGestIOnR**
-![MyGestIOnR](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/bienvenue%20ecran.PNG)
+<h2 align="center"><strong>MyGestIOnR</strong></h2>
+
 
 J'ai été en charge de la partie avec les bases de données dans la _Gestion du parc informatique_
 Nous pouvons observer qu'il y a la possiblité de :
