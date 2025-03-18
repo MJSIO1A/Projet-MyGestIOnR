@@ -46,10 +46,6 @@ Nous pouvons observer qu'il y a la possiblité de :
 
 
 **-Consultation des ip active ou _inactives_**
-<p align="center">
-  <img src="https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/actives.png" width="45%">
-  <img src="https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/inactive.png" width="45%">
-</p>
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/actives.png)
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/inactive.png)
 
