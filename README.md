@@ -5,6 +5,7 @@
 
 <h2 align="center"><strong>MyGestIOnR</strong></h2>
 
+**MyGestIOnR est un parc informatique qui nous permet de gérer la gestion de l'informatique d'une entreprise**
 
 J'ai été en charge de la partie avec les bases de données dans la _Gestion du parc informatique_
 Nous pouvons observer qu'il y a la possiblité de :
