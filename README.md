@@ -13,13 +13,13 @@ Nous pouvons observer qu'il y a la possiblité de :
 ## Fonctionnalités principales
 
 
-<span style="color:green;">Consulter les données</span>
+**Consulter les données**
 
-<span style="color:blue;">Ajouter des données</span>
+**Ajouter des données**
 
-<span style="color:pink;">Supprimer des données</span>
+**Supprimer des données**
 
-<span style="color:red;">Modifier des données</span>
+**Modifier des données**
 
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/Gestion%20du%20parc.PNG)
 
