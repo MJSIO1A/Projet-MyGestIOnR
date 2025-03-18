@@ -1,6 +1,6 @@
 # MyGestIOnR - Gestion d'un parc informatique
 <p align="center">
-  <img src="https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/bienvenue.png" width="60%">
+  <img src="https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/bienvenue%20ecran.PNG" width="60%">
 </p>
 
 <h2 align="center"><strong>MyGestIOnR</strong></h2>
