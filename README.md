@@ -26,10 +26,10 @@ Nous pouvons observer qu'il y a la possiblité de :
 **-La consultation des données** _(n'oublié pas d'afficher les bdd pour plus d'informations)_
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/Consult%20donnees.PNG)
 
-**-L'ajout des données** Cette fonctionnalités de la gestion du parc va permettre d'ajouter de nouveaux équipements dans la table déjà pré-crée '_equipements_
+**-L'ajout des données** Cette fonctionnalités de la gestion du parc va permettre d'ajouter de nouveaux équipements dans la table déjà pré-crée _equipements_
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/ajout%20donnees.png)
 
-**-Supprimer des données** La façon dont j'ai réalisé cette fonctionnalité peut être un peu tricky
+**-Supprimer des données**
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/suppression%20donnees.png)
  
 **-Modification des données** Malheureusement, on ne peut que modifier la ligne de l'équipement (mais j'ai essayé)
@@ -58,6 +58,6 @@ Nous pouvons observer qu'il y a la possiblité de :
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/sauvegarde.png)
 
 
-**Je tenais aussi à informer un problème avec la gestion du projet entre mon camarade Jan et moi au niveau de l'installation de MyGestIOnR avec le script ./install.sh, ce script ne donne pas tout les droits à  GestAdmin (de mon côté), alors vous aurez la version de mon projet avec l'utilisateur votre_utilisateur, qu'il faudra mettre lors de l'installation de ma version du script ./install.sh, je l'ai testé sur une autre machine cela fonctionne (malgré quelques erreurs)**
+**Je tenais aussi à informer d'un problème avec la gestion du projet entre mon camarade Jan et moi au niveau de l'installation de MyGestIOnR avec le script ./install.sh. Ce script ne donne pas tous les droits à GestAdmin (de mon côté). Alors, vous aurez la version de mon projet avec l'utilisateur votre_utilisateur, qu'il faudra mettre lors de l'installation de ma version du script ./install.sh. Je l'ai testé sur une autre machine cela fonctionne (malgré quelques erreurs)**
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/gestadmin.png) 
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/votre_utilisateur.png)
